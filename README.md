@@ -1,2 +1,1 @@
-# terraform
-demo
+# terraform-aws-ec2
